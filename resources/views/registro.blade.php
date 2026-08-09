@@ -90,7 +90,7 @@
             por el controlador correspondiente.
         -->
         <form method="POST">
-             @csrf
+            @csrf
 
             <!-- Campo para ingresar el nombre -->
             <label for="nombre">Nombre</label>
@@ -125,7 +125,7 @@
             </button>
         </form>
 
-            </div>
+    </div>
 
 </body>
 </html>

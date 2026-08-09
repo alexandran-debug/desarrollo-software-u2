@@ -88,8 +88,8 @@
             Formulario para ingresar al sistema.
             La ruta que procesará los datos será agregada
             posteriormente por el controlador.
-                -->
-            <form method="POST">
+        -->
+        <form method="POST">
             @csrf
 
             <!-- Campo para ingresar el correo -->
@@ -114,7 +114,7 @@
             <button type="submit">
                 Iniciar Sesión
             </button>
-</form>
+        </form>
 
     </div>
 
