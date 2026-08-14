@@ -6,7 +6,6 @@
 
     <div class="projects-container">
 
-        ```
         <!-- Encabezado de la sección -->
         <div class="projects-header">
 
@@ -82,7 +81,6 @@
             @endforelse
 
         </div>
-        ```
 
     </div>
 
